@@ -1,0 +1,54 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+
+
+#proyecto_educativo {
+  background-image: url("../imagenes_fondo/281929-P6JIQO-325.jpg");
+  background-repeat: no-repeat !important;
+  background-attachment: scroll !important;
+  background-position: center center !important;
+  z-index: auto;
+  background-size: cover !important;
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  -o-background-size: cover !important;
+  height: 100%;
+  width: 100%;
+}
+
+#servicios {
+  background-image: url("../imagenes_fondo/OPU37E0.jpg");
+  background-repeat: no-repeat !important;
+  background-attachment: scroll !important;
+  background-position: center center !important;
+  z-index: auto;
+  background-size: cover !important;
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  -o-background-size: cover !important;
+  height: 100%;
+  width: 100%;
+}
+#contacto {
+  background-image: url("../imagenes_fondo/OPU38N0.jpg");
+  background-repeat: no-repeat !important;
+  background-attachment: scroll !important;
+  background-position: center center !important;
+  z-index: auto;
+  background-size: cover !important;
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  -o-background-size: cover !important;
+  height: 100%;
+  width: 100%;
+}
